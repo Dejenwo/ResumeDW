@@ -9,7 +9,7 @@
 **COURSE**: Programming Foundations with HTML5,CSS3 & BOOTSTRAP <br>
 **PROGRAM**: Udacity - Full Stack Web Developer Nanodegree<br>
 
-  **LIVE DEMO SITE**: https://dejenwo.github.io/buildaportfolio/
+  **LIVE DEMO SITE**: https://dejenwo.github.io/ResumeDW/
 
 ##**Syllabus**
 **Lesson 1 - From Design to Code**
